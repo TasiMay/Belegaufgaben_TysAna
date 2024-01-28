@@ -4,7 +4,6 @@ Internals HTML CSS
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
 This project is a RESTful Spring - Boot application. It helps users to manage playlists.
